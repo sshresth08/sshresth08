@@ -1,4 +1,4 @@
-# Sudin Shrestha — Full Stack Developer
+# Sudin Shrestha Full Stack Developer
 
 > FastAPI · Next.js · TypeScript · Docker · PostgreSQL  
 > Based in Cologne, Germany · Open to work
