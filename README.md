@@ -11,7 +11,7 @@
 **Backend** : Python/FastAPI · Flask · Node.js · REST APIs  
 **Databases** : PostgreSQL · Supabase · MongoDB  
 **DevOps** : Docker · Docker Compose · GitHub Actions · DigitalOcean · Vercel  
-**Currently learning** : Multi-service container architectures · Kubernetes basics
+**Currently learning** : Multi-service container architectures 
 
 ---
 
